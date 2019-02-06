@@ -1,4 +1,5 @@
 # docker-symfony-vue
+[![Build Status](https://travis-ci.com/harmakit/docker-symfony-vue.svg?branch=master)](https://travis-ci.com/harmakit/docker-symfony-vue)  
 
 Environment composition:
 
