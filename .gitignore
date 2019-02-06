@@ -1,0 +1,6 @@
+/.idea
+/.env
+/.docker-sync
+/logs/*
+
+!.gitignore
